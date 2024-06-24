@@ -49,6 +49,8 @@
 
 2. To start the frontend:
 
+You should add your backend url in the BASE_URL variable in `api.jsx`.
+
    ```bash
    cd frontend
    npm install

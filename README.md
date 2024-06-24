@@ -13,6 +13,17 @@
 - Users can delete profile
 - Users can send money to other users
 
+## Technologies Used
+
+- Node.js
+- Express
+- MongoDB
+- Mongoose
+- JWT
+- React
+- React Router DOM
+- Tailwind CSS
+
 ## How to use
 
 1. To start the server:
